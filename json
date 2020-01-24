@@ -1,0 +1,142 @@
+{
+	"blocks": [
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "Customer name: *BELARUSBANK - NM3649*"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "actions",
+			"elements": [
+				{
+					"type": "button",
+					"text": {
+						"type": "plain_text",
+						"text": "Medium"
+					}
+				}
+			]
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "\n\nEntity ID\n*<google.com|CMY07428-GBS>*\n\nAlert detail\n*Current quarter revenue forecast varies from current quarter revenue forecast from last month snapshot by more than ##%*\n"
+			},
+			"fields": [
+				{
+					"type": "mrkdwn",
+					"text": "Project Manager\n*<google.com|SlavikFixer290728/IBM>*"
+				},
+				{
+					"type": "mrkdwn",
+					"text": "Project Executive\n*<google.com|SlavikFixer290728/IBM>*"
+				}
+			]
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "*<google.com|Show more ➤>*"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "actions",
+			"elements": [
+				{
+					"type": "button",
+					"text": {
+						"type": "plain_text",
+						"text": "Hight"
+					},
+					"style": "danger"
+				}
+			]
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "\n\nEntity ID\n*<google.com|CMY07428-GBS>*\n\nAlert detail\n*GP Leakage to plan (EaC) percentage > 10% or amount > $250K*\n"
+			},
+			"fields": [
+				{
+					"type": "mrkdwn",
+					"text": "Project Manager\n*<google.com|SlavikFixer290728/IBM>*"
+				},
+				{
+					"type": "mrkdwn",
+					"text": "Project Executive\n*<google.com|SlavikFixer290728/IBM>*"
+				}
+			]
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "*<google.com|Show more ➤>*"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "actions",
+			"elements": [
+				{
+					"type": "button",
+					"text": {
+						"type": "plain_text",
+						"text": "Low"
+					},
+					"style": "primary"
+				}
+			]
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "\n\nEntity ID\n*<google.com|CMY07428-GBS>*\n\nAlert detail\n*GP Leakage to plan (EaC) percentage > 10% or amount > $250K*\n"
+			},
+			"fields": [
+				{
+					"type": "mrkdwn",
+					"text": "Project Manager\n*<google.com|SlavikFixer290728/IBM>*"
+				},
+				{
+					"type": "mrkdwn",
+					"text": "Project Executive\n*<google.com|SlavikFixer290728/IBM>*"
+				}
+			]
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "*<google.com|Show more ➤>*"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "context",
+			"elements": [
+				{
+					"type": "mrkdwn",
+					"text": "Do you want to change or update subscription? *<google.com|Click here>*"
+				}
+			]
+		}
+	]
+}
